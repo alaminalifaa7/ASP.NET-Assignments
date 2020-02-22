@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Index"; <!--Razor Syntax -->
+}
+
+<h1>Index</h1>
+<p>
+    @Html.ActionLink("Create New", "Create")  <!--HTML Helper -->
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.TextArea("Alif")
+        </th>
+        <th>
+            @Html.TextArea("Trying to figure out how it works")
+        </th>
+        <th></th>  <!--Pure HTLML -->
+    </tr>
+
+
+</table>
