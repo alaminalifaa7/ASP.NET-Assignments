@@ -1,0 +1,8 @@
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\bin\Debug\netcoreapp3.1\Product.Framework.deps.json
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\bin\Debug\netcoreapp3.1\Product.Framework.dll
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\bin\Debug\netcoreapp3.1\Product.Framework.pdb
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\obj\Debug\netcoreapp3.1\Product.Framework.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\obj\Debug\netcoreapp3.1\Product.Framework.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\obj\Debug\netcoreapp3.1\Product.Framework.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\obj\Debug\netcoreapp3.1\Product.Framework.dll
+C:\Users\MEEM\source\repos\Assignment 5-Datatables,sql\ASP.NET-Assignments\Product.Framework\obj\Debug\netcoreapp3.1\Product.Framework.pdb
