@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\bin\Debug\netcoreapp3.0\DCP-194NumberFormatting.exe
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\bin\Debug\netcoreapp3.0\DCP-194NumberFormatting.deps.json
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\bin\Debug\netcoreapp3.0\DCP-194NumberFormatting.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\bin\Debug\netcoreapp3.0\DCP-194NumberFormatting.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\bin\Debug\netcoreapp3.0\DCP-194NumberFormatting.dll
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\bin\Debug\netcoreapp3.0\DCP-194NumberFormatting.pdb
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\obj\Debug\netcoreapp3.0\DCP-194NumberFormatting.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\obj\Debug\netcoreapp3.0\DCP-194NumberFormatting.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\obj\Debug\netcoreapp3.0\DCP-194NumberFormatting.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\obj\Debug\netcoreapp3.0\DCP-194NumberFormatting.dll
+C:\Users\MEEM\source\repos\DCP-194NumberFormatting\DCP-194NumberFormatting\obj\Debug\netcoreapp3.0\DCP-194NumberFormatting.pdb

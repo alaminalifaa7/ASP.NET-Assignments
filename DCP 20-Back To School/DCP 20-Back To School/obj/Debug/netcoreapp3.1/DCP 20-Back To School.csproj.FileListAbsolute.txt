@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\bin\Debug\netcoreapp3.1\DCP 20-Back To School.exe
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\bin\Debug\netcoreapp3.1\DCP 20-Back To School.deps.json
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\bin\Debug\netcoreapp3.1\DCP 20-Back To School.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\bin\Debug\netcoreapp3.1\DCP 20-Back To School.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\bin\Debug\netcoreapp3.1\DCP 20-Back To School.dll
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\bin\Debug\netcoreapp3.1\DCP 20-Back To School.pdb
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\obj\Debug\netcoreapp3.1\DCP 20-Back To School.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\obj\Debug\netcoreapp3.1\DCP 20-Back To School.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\obj\Debug\netcoreapp3.1\DCP 20-Back To School.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\obj\Debug\netcoreapp3.1\DCP 20-Back To School.dll
+C:\Users\MEEM\source\repos\DCP 20-Back To School\DCP 20-Back To School\obj\Debug\netcoreapp3.1\DCP 20-Back To School.pdb

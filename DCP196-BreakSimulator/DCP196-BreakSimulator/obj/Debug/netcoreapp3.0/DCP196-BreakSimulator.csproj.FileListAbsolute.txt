@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\bin\Debug\netcoreapp3.0\DCP196-BreakSimulator.exe
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\bin\Debug\netcoreapp3.0\DCP196-BreakSimulator.deps.json
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\bin\Debug\netcoreapp3.0\DCP196-BreakSimulator.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\bin\Debug\netcoreapp3.0\DCP196-BreakSimulator.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\bin\Debug\netcoreapp3.0\DCP196-BreakSimulator.dll
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\bin\Debug\netcoreapp3.0\DCP196-BreakSimulator.pdb
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\obj\Debug\netcoreapp3.0\DCP196-BreakSimulator.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\obj\Debug\netcoreapp3.0\DCP196-BreakSimulator.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\obj\Debug\netcoreapp3.0\DCP196-BreakSimulator.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\obj\Debug\netcoreapp3.0\DCP196-BreakSimulator.dll
+C:\Users\MEEM\source\repos\DCP196-BreakSimulator\DCP196-BreakSimulator\obj\Debug\netcoreapp3.0\DCP196-BreakSimulator.pdb

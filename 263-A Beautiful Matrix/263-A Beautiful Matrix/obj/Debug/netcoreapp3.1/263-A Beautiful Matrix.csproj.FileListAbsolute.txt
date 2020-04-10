@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\bin\Debug\netcoreapp3.1\263-A Beautiful Matrix.exe
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\bin\Debug\netcoreapp3.1\263-A Beautiful Matrix.deps.json
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\bin\Debug\netcoreapp3.1\263-A Beautiful Matrix.runtimeconfig.json
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\bin\Debug\netcoreapp3.1\263-A Beautiful Matrix.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\bin\Debug\netcoreapp3.1\263-A Beautiful Matrix.dll
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\bin\Debug\netcoreapp3.1\263-A Beautiful Matrix.pdb
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.dll
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.pdb
+C:\Users\MEEM\source\repos\263-A Beautiful Matrix\263-A Beautiful Matrix\obj\Debug\netcoreapp3.1\263-A Beautiful Matrix.genruntimeconfig.cache

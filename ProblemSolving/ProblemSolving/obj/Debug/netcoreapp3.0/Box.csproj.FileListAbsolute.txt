@@ -1,0 +1,10 @@
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\Box.exe
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\Box.deps.json
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\Box.runtimeconfig.json
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\Box.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\Box.dll
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\Box.pdb
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\Box.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\Box.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\Box.dll
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\Box.pdb

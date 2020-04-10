@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "281-A Word Capitalization/1.0.0": {
+        "runtime": {
+          "281-A Word Capitalization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "281-A Word Capitalization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\bin\Debug\netcoreapp3.0\DCP-35 Square Number.exe
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\bin\Debug\netcoreapp3.0\DCP-35 Square Number.deps.json
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\bin\Debug\netcoreapp3.0\DCP-35 Square Number.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\bin\Debug\netcoreapp3.0\DCP-35 Square Number.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\bin\Debug\netcoreapp3.0\DCP-35 Square Number.dll
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\bin\Debug\netcoreapp3.0\DCP-35 Square Number.pdb
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\obj\Debug\netcoreapp3.0\DCP-35 Square Number.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\obj\Debug\netcoreapp3.0\DCP-35 Square Number.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\obj\Debug\netcoreapp3.0\DCP-35 Square Number.dll
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\obj\Debug\netcoreapp3.0\DCP-35 Square Number.pdb
+C:\Users\MEEM\source\repos\DCP-35 Square Number\DCP-35 Square Number\obj\Debug\netcoreapp3.0\DCP-35 Square Number.csprojAssemblyReference.cache

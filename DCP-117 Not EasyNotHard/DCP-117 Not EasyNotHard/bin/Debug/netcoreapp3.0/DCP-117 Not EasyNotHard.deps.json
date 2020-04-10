@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DCP-117 Not EasyNotHard/1.0.0": {
+        "runtime": {
+          "DCP-117 Not EasyNotHard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DCP-117 Not EasyNotHard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

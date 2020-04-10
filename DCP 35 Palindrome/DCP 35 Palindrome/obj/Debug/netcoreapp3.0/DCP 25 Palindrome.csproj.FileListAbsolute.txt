@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\obj\Debug\netcoreapp3.0\DCP 25 Palindrome.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\obj\Debug\netcoreapp3.0\DCP 25 Palindrome.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\obj\Debug\netcoreapp3.0\DCP 25 Palindrome.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\bin\Debug\netcoreapp3.0\DCP 25 Palindrome.exe
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\bin\Debug\netcoreapp3.0\DCP 25 Palindrome.deps.json
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\bin\Debug\netcoreapp3.0\DCP 25 Palindrome.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\bin\Debug\netcoreapp3.0\DCP 25 Palindrome.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\bin\Debug\netcoreapp3.0\DCP 25 Palindrome.dll
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\bin\Debug\netcoreapp3.0\DCP 25 Palindrome.pdb
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\obj\Debug\netcoreapp3.0\DCP 25 Palindrome.dll
+C:\Users\MEEM\source\repos\DCP 35 Palindrome\DCP 35 Palindrome\obj\Debug\netcoreapp3.0\DCP 25 Palindrome.pdb

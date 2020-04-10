@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\bin\Debug\netcoreapp3.1\DCP-29 Common String.exe
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\bin\Debug\netcoreapp3.1\DCP-29 Common String.deps.json
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\bin\Debug\netcoreapp3.1\DCP-29 Common String.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\bin\Debug\netcoreapp3.1\DCP-29 Common String.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\bin\Debug\netcoreapp3.1\DCP-29 Common String.dll
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\bin\Debug\netcoreapp3.1\DCP-29 Common String.pdb
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\obj\Debug\netcoreapp3.1\DCP-29 Common String.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\obj\Debug\netcoreapp3.1\DCP-29 Common String.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\obj\Debug\netcoreapp3.1\DCP-29 Common String.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\obj\Debug\netcoreapp3.1\DCP-29 Common String.dll
+C:\Users\MEEM\source\repos\DCP-29 Common String\DCP-29 Common String\obj\Debug\netcoreapp3.1\DCP-29 Common String.pdb

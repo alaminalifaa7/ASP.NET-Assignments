@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\bin\Debug\netcoreapp3.0\NumberSuccess.exe
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\bin\Debug\netcoreapp3.0\NumberSuccess.deps.json
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\bin\Debug\netcoreapp3.0\NumberSuccess.runtimeconfig.json
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\bin\Debug\netcoreapp3.0\NumberSuccess.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\bin\Debug\netcoreapp3.0\NumberSuccess.dll
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\bin\Debug\netcoreapp3.0\NumberSuccess.pdb
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\obj\Debug\netcoreapp3.0\NumberSuccess.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\obj\Debug\netcoreapp3.0\NumberSuccess.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\obj\Debug\netcoreapp3.0\NumberSuccess.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\obj\Debug\netcoreapp3.0\NumberSuccess.dll
+C:\Users\MEEM\source\repos\NumberSuccess\NumberSuccess\obj\Debug\netcoreapp3.0\NumberSuccess.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "791-A Bear and Big Brother", "791-A Bear and Big Brother\791-A Bear and Big Brother.csproj", "{16F4D3E0-50EB-4E9C-B035-2B006ED0924D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F4D3E0-50EB-4E9C-B035-2B006ED0924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F4D3E0-50EB-4E9C-B035-2B006ED0924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F4D3E0-50EB-4E9C-B035-2B006ED0924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F4D3E0-50EB-4E9C-B035-2B006ED0924D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937D8290-BD0B-4946-8CF3-8ABB89D6DBA9}
+	EndGlobalSection
+EndGlobal

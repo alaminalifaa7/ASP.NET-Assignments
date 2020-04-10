@@ -1,0 +1,10 @@
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\bin\Debug\netcoreapp3.0\DCP 26 Reverse.exe
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\bin\Debug\netcoreapp3.0\DCP 26 Reverse.deps.json
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\bin\Debug\netcoreapp3.0\DCP 26 Reverse.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\bin\Debug\netcoreapp3.0\DCP 26 Reverse.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\bin\Debug\netcoreapp3.0\DCP 26 Reverse.dll
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\bin\Debug\netcoreapp3.0\DCP 26 Reverse.pdb
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\obj\Debug\netcoreapp3.0\DCP 26 Reverse.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\obj\Debug\netcoreapp3.0\DCP 26 Reverse.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\obj\Debug\netcoreapp3.0\DCP 26 Reverse.dll
+C:\Users\MEEM\source\repos\DCP 26 Reverse\DCP 26 Reverse\obj\Debug\netcoreapp3.0\DCP 26 Reverse.pdb

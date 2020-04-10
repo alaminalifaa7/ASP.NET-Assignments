@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\bin\Debug\netcoreapp3.0\BanglaWash.exe
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\bin\Debug\netcoreapp3.0\BanglaWash.deps.json
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\bin\Debug\netcoreapp3.0\BanglaWash.runtimeconfig.json
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\bin\Debug\netcoreapp3.0\BanglaWash.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\bin\Debug\netcoreapp3.0\BanglaWash.dll
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\bin\Debug\netcoreapp3.0\BanglaWash.pdb
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\obj\Debug\netcoreapp3.0\BanglaWash.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\obj\Debug\netcoreapp3.0\BanglaWash.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\obj\Debug\netcoreapp3.0\BanglaWash.dll
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\obj\Debug\netcoreapp3.0\BanglaWash.pdb
+C:\Users\MEEM\source\repos\BanglaWash\BanglaWash\obj\Debug\netcoreapp3.0\BanglaWash.csprojAssemblyReference.cache

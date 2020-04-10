@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\bin\Debug\netcoreapp3.0\DCP 30 CountIT.exe
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\bin\Debug\netcoreapp3.0\DCP 30 CountIT.deps.json
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\bin\Debug\netcoreapp3.0\DCP 30 CountIT.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\bin\Debug\netcoreapp3.0\DCP 30 CountIT.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\bin\Debug\netcoreapp3.0\DCP 30 CountIT.dll
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\bin\Debug\netcoreapp3.0\DCP 30 CountIT.pdb
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\obj\Debug\netcoreapp3.0\DCP 30 CountIT.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\obj\Debug\netcoreapp3.0\DCP 30 CountIT.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\obj\Debug\netcoreapp3.0\DCP 30 CountIT.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\obj\Debug\netcoreapp3.0\DCP 30 CountIT.dll
+C:\Users\MEEM\source\repos\DCP 30 CountIT\DCP 30 CountIT\obj\Debug\netcoreapp3.0\DCP 30 CountIT.pdb

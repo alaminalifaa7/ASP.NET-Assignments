@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_596_A_Wilbur_and_Swimming_Pool</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "dcp273-very_easy/1.0.0": {
+        "runtime": {
+          "dcp273-very_easy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dcp273-very_easy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

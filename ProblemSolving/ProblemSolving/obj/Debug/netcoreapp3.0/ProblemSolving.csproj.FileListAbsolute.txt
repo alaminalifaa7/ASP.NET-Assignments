@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\ProblemSolving.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\ProblemSolving.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\ProblemSolving.exe
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\ProblemSolving.deps.json
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\ProblemSolving.runtimeconfig.json
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\ProblemSolving.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\ProblemSolving.dll
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\bin\Debug\netcoreapp3.0\ProblemSolving.pdb
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\ProblemSolving.dll
+C:\Users\MEEM\source\repos\ProblemSolving\ProblemSolving\obj\Debug\netcoreapp3.0\ProblemSolving.pdb

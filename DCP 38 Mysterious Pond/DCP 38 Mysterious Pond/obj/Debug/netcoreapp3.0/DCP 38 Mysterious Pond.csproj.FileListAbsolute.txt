@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\bin\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.exe
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\bin\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.deps.json
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\bin\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\bin\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\bin\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.dll
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\bin\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.pdb
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\obj\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\obj\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\obj\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\obj\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.dll
+C:\Users\MEEM\source\repos\DCP 38 Mysterious Pond\DCP 38 Mysterious Pond\obj\Debug\netcoreapp3.0\DCP 38 Mysterious Pond.pdb

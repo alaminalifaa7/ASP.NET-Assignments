@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "596-A Wilbur and Swimming Pool/1.0.0": {
+        "runtime": {
+          "596-A Wilbur and Swimming Pool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "596-A Wilbur and Swimming Pool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

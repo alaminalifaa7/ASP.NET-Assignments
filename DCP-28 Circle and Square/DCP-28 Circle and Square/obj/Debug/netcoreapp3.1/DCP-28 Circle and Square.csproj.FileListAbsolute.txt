@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\bin\Debug\netcoreapp3.1\DCP-28 Circle and Square.exe
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\bin\Debug\netcoreapp3.1\DCP-28 Circle and Square.deps.json
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\bin\Debug\netcoreapp3.1\DCP-28 Circle and Square.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\bin\Debug\netcoreapp3.1\DCP-28 Circle and Square.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\bin\Debug\netcoreapp3.1\DCP-28 Circle and Square.dll
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\bin\Debug\netcoreapp3.1\DCP-28 Circle and Square.pdb
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\obj\Debug\netcoreapp3.1\DCP-28 Circle and Square.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\obj\Debug\netcoreapp3.1\DCP-28 Circle and Square.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\obj\Debug\netcoreapp3.1\DCP-28 Circle and Square.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\obj\Debug\netcoreapp3.1\DCP-28 Circle and Square.dll
+C:\Users\MEEM\source\repos\DCP-28 Circle and Square\DCP-28 Circle and Square\obj\Debug\netcoreapp3.1\DCP-28 Circle and Square.pdb

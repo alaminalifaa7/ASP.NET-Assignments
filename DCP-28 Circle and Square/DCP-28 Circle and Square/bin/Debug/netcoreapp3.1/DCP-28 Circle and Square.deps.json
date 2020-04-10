@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DCP-28 Circle and Square/1.0.0": {
+        "runtime": {
+          "DCP-28 Circle and Square.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DCP-28 Circle and Square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

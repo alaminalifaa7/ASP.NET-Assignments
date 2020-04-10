@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\bin\Debug\netcoreapp3.1\112-A Petya and Strings.exe
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\bin\Debug\netcoreapp3.1\112-A Petya and Strings.deps.json
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\bin\Debug\netcoreapp3.1\112-A Petya and Strings.runtimeconfig.json
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\bin\Debug\netcoreapp3.1\112-A Petya and Strings.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\bin\Debug\netcoreapp3.1\112-A Petya and Strings.dll
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\bin\Debug\netcoreapp3.1\112-A Petya and Strings.pdb
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.dll
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.pdb
+C:\Users\MEEM\source\repos\112-A Petya and Strings\112-A Petya and Strings\obj\Debug\netcoreapp3.1\112-A Petya and Strings.genruntimeconfig.cache

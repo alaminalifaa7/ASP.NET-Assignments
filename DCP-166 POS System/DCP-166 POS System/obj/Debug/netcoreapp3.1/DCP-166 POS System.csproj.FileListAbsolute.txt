@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\bin\Debug\netcoreapp3.1\DCP-166 POS System.exe
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\bin\Debug\netcoreapp3.1\DCP-166 POS System.deps.json
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\bin\Debug\netcoreapp3.1\DCP-166 POS System.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\bin\Debug\netcoreapp3.1\DCP-166 POS System.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\bin\Debug\netcoreapp3.1\DCP-166 POS System.dll
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\bin\Debug\netcoreapp3.1\DCP-166 POS System.pdb
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\obj\Debug\netcoreapp3.1\DCP-166 POS System.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\obj\Debug\netcoreapp3.1\DCP-166 POS System.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\obj\Debug\netcoreapp3.1\DCP-166 POS System.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\obj\Debug\netcoreapp3.1\DCP-166 POS System.dll
+C:\Users\MEEM\source\repos\DCP-166 POS System\DCP-166 POS System\obj\Debug\netcoreapp3.1\DCP-166 POS System.pdb

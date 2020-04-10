@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "339-A Helpful Maths/1.0.0": {
+        "runtime": {
+          "339-A Helpful Maths.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "339-A Helpful Maths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

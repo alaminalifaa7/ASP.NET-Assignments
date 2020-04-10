@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\bin\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.exe
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\bin\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.deps.json
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\bin\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.runtimeconfig.json
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\bin\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\bin\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.dll
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\bin\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.pdb
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\obj\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\obj\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\obj\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\obj\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.dll
+C:\Users\MEEM\source\repos\DCP-117 Not EasyNotHard\DCP-117 Not EasyNotHard\obj\Debug\netcoreapp3.0\DCP-117 Not EasyNotHard.pdb

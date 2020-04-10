@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DCP-166 POS System/1.0.0": {
+        "runtime": {
+          "DCP-166 POS System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DCP-166 POS System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

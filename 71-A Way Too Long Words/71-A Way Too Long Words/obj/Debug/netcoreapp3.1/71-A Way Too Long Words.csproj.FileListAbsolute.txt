@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\bin\Debug\netcoreapp3.1\71-A Way Too Long Words.exe
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\bin\Debug\netcoreapp3.1\71-A Way Too Long Words.deps.json
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\bin\Debug\netcoreapp3.1\71-A Way Too Long Words.runtimeconfig.json
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\bin\Debug\netcoreapp3.1\71-A Way Too Long Words.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\bin\Debug\netcoreapp3.1\71-A Way Too Long Words.dll
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\bin\Debug\netcoreapp3.1\71-A Way Too Long Words.pdb
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.dll
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.pdb
+C:\Users\MEEM\source\repos\71-A Way Too Long Words\71-A Way Too Long Words\obj\Debug\netcoreapp3.1\71-A Way Too Long Words.genruntimeconfig.cache

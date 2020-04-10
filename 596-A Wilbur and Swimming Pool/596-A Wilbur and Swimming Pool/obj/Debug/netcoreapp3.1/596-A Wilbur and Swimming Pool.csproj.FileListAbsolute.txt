@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\bin\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.exe
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\bin\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.deps.json
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\bin\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.runtimeconfig.json
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\bin\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\bin\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.dll
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\bin\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.pdb
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.dll
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.pdb
+C:\Users\MEEM\source\repos\596-A Wilbur and Swimming Pool\596-A Wilbur and Swimming Pool\obj\Debug\netcoreapp3.1\596-A Wilbur and Swimming Pool.genruntimeconfig.cache

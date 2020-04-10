@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DCP 30 CountIT/1.0.0": {
+        "runtime": {
+          "DCP 30 CountIT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DCP 30 CountIT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

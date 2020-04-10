@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\bin\Debug\netcoreapp3.1\339-A Helpful Maths.exe
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\bin\Debug\netcoreapp3.1\339-A Helpful Maths.deps.json
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\bin\Debug\netcoreapp3.1\339-A Helpful Maths.runtimeconfig.json
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\bin\Debug\netcoreapp3.1\339-A Helpful Maths.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\bin\Debug\netcoreapp3.1\339-A Helpful Maths.dll
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\bin\Debug\netcoreapp3.1\339-A Helpful Maths.pdb
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.dll
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.pdb
+C:\Users\MEEM\source\repos\339-A Helpful Maths\339-A Helpful Maths\obj\Debug\netcoreapp3.1\339-A Helpful Maths.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\bin\Debug\netcoreapp3.1\281-A Word Capitalization.exe
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\bin\Debug\netcoreapp3.1\281-A Word Capitalization.deps.json
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\bin\Debug\netcoreapp3.1\281-A Word Capitalization.runtimeconfig.json
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\bin\Debug\netcoreapp3.1\281-A Word Capitalization.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\bin\Debug\netcoreapp3.1\281-A Word Capitalization.dll
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\bin\Debug\netcoreapp3.1\281-A Word Capitalization.pdb
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.dll
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.pdb
+C:\Users\MEEM\source\repos\281-A Word Capitalization\281-A Word Capitalization\obj\Debug\netcoreapp3.1\281-A Word Capitalization.genruntimeconfig.cache

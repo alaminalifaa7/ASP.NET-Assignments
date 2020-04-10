@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\bin\Debug\netcoreapp3.0\dcp273-very_easy.exe
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\bin\Debug\netcoreapp3.0\dcp273-very_easy.deps.json
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\bin\Debug\netcoreapp3.0\dcp273-very_easy.runtimeconfig.json
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\bin\Debug\netcoreapp3.0\dcp273-very_easy.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\bin\Debug\netcoreapp3.0\dcp273-very_easy.dll
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\bin\Debug\netcoreapp3.0\dcp273-very_easy.pdb
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\obj\Debug\netcoreapp3.0\dcp273-very_easy.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\obj\Debug\netcoreapp3.0\dcp273-very_easy.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\obj\Debug\netcoreapp3.0\dcp273-very_easy.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\obj\Debug\netcoreapp3.0\dcp273-very_easy.dll
+C:\Users\MEEM\source\repos\dcp273-very_easy\dcp273-very_easy\obj\Debug\netcoreapp3.0\dcp273-very_easy.pdb

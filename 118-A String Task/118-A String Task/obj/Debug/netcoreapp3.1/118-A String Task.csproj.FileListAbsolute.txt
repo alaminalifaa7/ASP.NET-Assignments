@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\bin\Debug\netcoreapp3.1\118-A String Task.exe
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\bin\Debug\netcoreapp3.1\118-A String Task.deps.json
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\bin\Debug\netcoreapp3.1\118-A String Task.runtimeconfig.json
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\bin\Debug\netcoreapp3.1\118-A String Task.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\bin\Debug\netcoreapp3.1\118-A String Task.dll
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\bin\Debug\netcoreapp3.1\118-A String Task.pdb
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.dll
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.pdb
+C:\Users\MEEM\source\repos\118-A String Task\118-A String Task\obj\Debug\netcoreapp3.1\118-A String Task.genruntimeconfig.cache

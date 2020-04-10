@@ -1,0 +1,11 @@
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\bin\Debug\netcoreapp3.0\GreatTheWork.exe
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\bin\Debug\netcoreapp3.0\GreatTheWork.deps.json
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\bin\Debug\netcoreapp3.0\GreatTheWork.runtimeconfig.json
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\bin\Debug\netcoreapp3.0\GreatTheWork.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\bin\Debug\netcoreapp3.0\GreatTheWork.dll
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\bin\Debug\netcoreapp3.0\GreatTheWork.pdb
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\obj\Debug\netcoreapp3.0\GreatTheWork.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\obj\Debug\netcoreapp3.0\GreatTheWork.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\obj\Debug\netcoreapp3.0\GreatTheWork.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\obj\Debug\netcoreapp3.0\GreatTheWork.dll
+C:\Users\MEEM\source\repos\GreatTheWork\GreatTheWork\obj\Debug\netcoreapp3.0\GreatTheWork.pdb
