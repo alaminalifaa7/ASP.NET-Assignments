@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Add Course</h1>
+
+<div>
+    <form action="/Course/Index" method="post">
+        <input type="text"   placeholder="Title" name="Title" />
+        <input type="number" placeholder="Seat" name="SeatCount" />
+        <input type="number" placeholder="Tuition Fee" name="Fee" />
+        <input type="submit" value="Submit" />
+    </form>
+</div>

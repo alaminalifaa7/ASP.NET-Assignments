@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Add Registration</h1>
+<div>
+    <form action="/Registration/Index" method="post">
+        <input type="number" placeholder="Student Id" name="StudentId" /> <br /><br />
+
+        <input type="number" placeholder="Course Id" name="CourseId" /> <br /><br />
+
+        <input type="date"  name="EnrollDate" /><br /><br />
+
+        <input type="radio" name="isPaymentComplete" /> <label> Check this box if Payment Complete  </label><br />
+        <input type="submit"  value="Submit" />
+    </form>
+</div>
+
