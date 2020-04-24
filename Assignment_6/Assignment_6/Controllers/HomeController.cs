@@ -23,9 +23,17 @@ namespace Assignment_6.Controllers
             return View();
         }
         [HttpPost]
+        public IActionResult Index(StudentRepository model)
+        {
+            
+            model.AddStudent(); 
+            return View();
+        }
+        [HttpPost]
         public IActionResult Index(StudentModel model)
         {
-            model.CreateStudent(); 
+
+            model.CreateStudent();
             return View();
         }
 

@@ -14,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
+using Assignment_6.Models;
 
 namespace Assignment_6
 {
@@ -42,7 +43,13 @@ namespace Assignment_6
             builder.RegisterType<SchoolContext>()
                    .WithParameter("connectionString", connectionString)
                    .WithParameter("migrationAssemblyName", migrationAssemblyName)
-                   .InstancePerLifetimeScope(); 
+                   .InstancePerLifetimeScope();
+
+
+            builder.RegisterType<StudentRepository>().As<IStudentRepository>()
+                .InstancePerLifetimeScope();
+         
+
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
